@@ -17,7 +17,7 @@ Instructions for using the software:
 
 1. the biggest thing that you need is to push the debug button to run the console.
 2. double click on the sln file and the push the play and it should work
-3.
+3. the sln file is broken so kust run the project.
 
 ## Development Environment 
 
